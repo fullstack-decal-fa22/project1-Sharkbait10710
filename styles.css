@@ -1,0 +1,24 @@
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+#School {
+    text-align: right;
+}
+
+.Contact {
+    color: purple;
+}
+
+.Topics {
+    display: grid;
+    row-gap: 20px;
+}
+
+#Message:hover{
+    color: Brown;
+    font-size: large;
+}
